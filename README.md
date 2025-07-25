@@ -1,0 +1,2 @@
+# UK-Dementia-Dashboard-Uncovering-Disparities-in-Dementia-Care
+This project features a public-facing Tableau dashboard designed to illuminate critical insights into dementia care within the UK. Leveraging the Primary Care Dementia Data September 2024 release from NHS England, this dashboard meticulously visualizes prevalence patterns, diagnostic rates, demographic distributions, and prescribing practices.
